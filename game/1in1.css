@@ -1,0 +1,23 @@
+body{
+background-color: #ffffb3;
+font-family:italic;
+}
+header{
+width:40%;
+background-color:white;
+margin:auto;
+border-style:solid;
+border-width:5px
+border-color:#ff00bf;
+padding:20px;
+}
+footer{
+width:40%;
+text-align:center;
+background-color:gray;
+margin:auto;
+border-style:solid;
+border-width:5px
+border-color:#ff00bf;
+padding:20px;
+}
